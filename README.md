@@ -1,4 +1,4 @@
-# 搬瓦工_搬瓦工中文站_搬瓦工VPS主机_Bandwagonhost VPS服务器_版瓦工测试IP|BandwagonHost官方测速地址
+# 搬瓦工_搬瓦工中文站_搬瓦工VPS主机_Bandwagonhost VPS服务器_搬瓦工测试IP|BandwagonHost官方测速地址
 
 
 ## 概述
@@ -125,7 +125,7 @@
 ### 购买链接
 [购买搬瓦工VPS](https://bwh81.net/aff.php?aff=74518&gid=1) - 使用以上优惠码获得折扣。
 
-## 8.版瓦工测试IP|BandwagonHost官方测速地址
+## 8.搬瓦工测试IP|BandwagonHost官方测速地址
 
 | 机房位置                | 测试IP           |
 |-------------------------|------------------|
